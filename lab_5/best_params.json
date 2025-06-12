@@ -1,0 +1,6 @@
+{
+  "learning_rate": 0.005000000819563866,
+  "dropout_rate": 0.1687418520450592,
+  "n_filters_conv1": 17,
+  "n_dense_units": 435
+}
