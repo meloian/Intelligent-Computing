@@ -1,0 +1,11 @@
+sku,name,shelf_life_days,unit_cost,unit_price,prod_time_min,stock_units
+P001,Product 1,25,1.89,3.49,5,30
+P002,Product 2,12,1.99,2.91,10,30
+P003,Product 3,7,3.57,5.06,3,30
+P004,Product 4,11,2.31,4.08,10,30
+P005,Product 5,11,4.01,7.29,8,30
+P006,Product 6,12,3.07,4.81,2,30
+P007,Product 7,29,4.32,7.86,7,30
+P008,Product 8,13,2.04,4.04,7,30
+P009,Product 9,8,1.82,2.66,7,30
+P010,Product 10,24,2.43,3.46,9,30
